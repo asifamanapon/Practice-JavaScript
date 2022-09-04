@@ -1,0 +1,10 @@
+var mathmetics = 75.25;
+var biology = 65;
+var chemistry = 80;
+var physics = 35.45;
+var bangla = 99.5;
+var addition = mathmetics + biology + chemistry + physics + bangla;
+var average = addition / 5;
+console.log(average);
+var averageTwo = average.toFixed(2);
+console.log(averageTwo);
